@@ -20,5 +20,5 @@ Bu proje, tamamen Python kullanılarak oluşturulmuş, grafiksel bir kullanıcı
 
 1. Projeyi yerel makinenize klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/python-hesap-makinesi.git
+   git clone https://github.com/emirhanipek/python-hesap-makinesi.git
 
